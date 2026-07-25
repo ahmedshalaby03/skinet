@@ -1,5 +1,5 @@
 <Solution>
+  <Project Path="API/API.csproj" />
   <Project Path="Core/Core.csproj" Id="7c2635ba-34c9-4f19-930b-28c2e566ccea" />
   <Project Path="Infrastructure/Infrastructure.csproj" Id="5404ae5b-2796-461c-a542-cfe25f8e02a2" />
-  <Project Path="skinet/API.csproj" />
 </Solution>

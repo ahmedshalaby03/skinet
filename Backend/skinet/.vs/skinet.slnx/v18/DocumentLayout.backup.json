@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "D:\\ITI 9 months\\skinet\\Backend\\skinet\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{713CC0D3-5855-099F-016A-0EC51C9DC001}|skinet\\API.csproj|d:\\iti 9 months\\skinet\\backend\\skinet\\skinet\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{713CC0D3-5855-099F-016A-0EC51C9DC001}|skinet\\API.csproj|solutionrelative:skinet\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ITI 9 months\\skinet\\Backend\\skinet\\Infrastructure\\Migrations\\20260724235043_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\Migrations\\20260724235043_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|API\\API.csproj|d:\\iti 9 months\\skinet\\backend\\skinet\\api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|API\\API.csproj|solutionrelative:api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5404AE5B-2796-461C-A542-CFE25F8E02A2}|Infrastructure\\Infrastructure.csproj|d:\\iti 9 months\\skinet\\backend\\skinet\\infrastructure\\data\\storecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,12 +15,16 @@
       "RelativeMoniker": "D:0:0:{5404AE5B-2796-461C-A542-CFE25F8E02A2}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\config\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{713CC0D3-5855-099F-016A-0EC51C9DC001}|skinet\\API.csproj|d:\\iti 9 months\\skinet\\backend\\skinet\\skinet\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{713CC0D3-5855-099F-016A-0EC51C9DC001}|skinet\\API.csproj|solutionrelative:skinet\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{5404AE5B-2796-461C-A542-CFE25F8E02A2}|Infrastructure\\Infrastructure.csproj|d:\\iti 9 months\\skinet\\backend\\skinet\\infrastructure\\migrations\\20260724235043_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5404AE5B-2796-461C-A542-CFE25F8E02A2}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20260724235043_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{713CC0D3-5855-099F-016A-0EC51C9DC001}|skinet\\API.csproj|d:\\iti 9 months\\skinet\\backend\\skinet\\skinet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{713CC0D3-5855-099F-016A-0EC51C9DC001}|skinet\\API.csproj|solutionrelative:skinet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ITI 9 months\\skinet\\Backend\\skinet\\skinet\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:skinet\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ITI 9 months\\skinet\\Backend\\skinet\\skinet\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:skinet\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,24 +34,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ProductsController.cs",
-              "DocumentMoniker": "D:\\ITI 9 months\\skinet\\Backend\\skinet\\skinet\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "skinet\\Controllers\\ProductsController.cs",
-              "ToolTip": "D:\\ITI 9 months\\skinet\\Backend\\skinet\\skinet\\Controllers\\ProductsController.cs*",
-              "RelativeToolTip": "skinet\\Controllers\\ProductsController.cs*",
-              "ViewState": "AgIAADYAAAAAAAAAAAAqwDsAAAAqAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\ITI 9 months\\skinet\\Backend\\skinet\\API\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\ITI 9 months\\skinet\\Backend\\skinet\\API\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "API\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-24T23:55:14.02Z",
+              "WhenOpened": "2026-07-25T04:11:58.994Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "20260724235043_InitialCreate.cs",
               "DocumentMoniker": "D:\\ITI 9 months\\skinet\\Backend\\skinet\\Infrastructure\\Migrations\\20260724235043_InitialCreate.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20260724235043_InitialCreate.cs",
@@ -59,12 +63,11 @@
               "RelativeToolTip": "Infrastructure\\Migrations\\20260724235043_InitialCreate.cs",
               "ViewState": "AgIAAAcAAAAwqaENwCY4wAwAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-24T23:50:43.951Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-24T23:50:43.951Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "ProductConfiguration.cs",
               "DocumentMoniker": "D:\\ITI 9 months\\skinet\\Backend\\skinet\\Infrastructure\\Config\\ProductConfiguration.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Config\\ProductConfiguration.cs",
@@ -72,8 +75,7 @@
               "RelativeToolTip": "Infrastructure\\Config\\ProductConfiguration.cs",
               "ViewState": "AgIAAAUAAAAA1sdD340DwA4AAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-24T23:43:06.547Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-24T23:43:06.547Z"
             },
             {
               "$type": "Document",
@@ -85,12 +87,11 @@
               "RelativeToolTip": "skinet\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-07-24T23:05:09.259Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-24T23:05:09.259Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "StoreContext.cs",
               "DocumentMoniker": "D:\\ITI 9 months\\skinet\\Backend\\skinet\\Infrastructure\\Data\\StoreContext.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Data\\StoreContext.cs",
@@ -111,12 +112,7 @@
               "RelativeToolTip": "skinet\\Program.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAQwBMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-24T22:13:01.842Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "WhenOpened": "2026-07-24T22:13:01.842Z"
             }
           ]
         },
