@@ -1,0 +1,100 @@
+# =========================
+# Backend - ASP.NET Core
+# =========================
+
+**/bin/
+**/obj/
+**/.vs/
+
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build output
+**/Debug/
+**/Release/
+
+# Publish output
+**/publish/
+**/Published/
+
+# Logs
+*.log
+logs/
+**/logs/
+
+# Local database files
+*.db
+*.db-shm
+*.db-wal
+*.mdf
+*.ldf
+
+# Environment and secret files
+.env
+.env.*
+!.env.example
+
+**/appsettings.Development.json
+**/appsettings.Local.json
+**/appsettings.*.Local.json
+
+# Rider / JetBrains
+.idea/
+*.sln.iml
+
+# VS Code local settings
+.vscode/
+!.vscode/extensions.json
+!.vscode/settings.example.json
+
+
+# =========================
+# Frontend - Angular
+# =========================
+
+**/node_modules/
+**/dist/
+**/.angular/
+**/.cache/
+**/coverage/
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Angular environment files containing secrets
+**/src/environments/environment.local.ts
+**/src/environments/environment.development.local.ts
+
+# Package manager cache
+.npm/
+.pnpm-store/
+
+# TypeScript cache
+*.tsbuildinfo
+
+
+# =========================
+# Course Assets
+# تجاهل الفولدر بالكامل
+# =========================
+
+CourseAssets/
+
+
+# =========================
+# Operating System files
+# =========================
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.bak
