@@ -1,0 +1,6 @@
+@skinet_HostAddress = http://localhost:5070
+
+GET {{skinet_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
